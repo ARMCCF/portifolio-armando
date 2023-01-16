@@ -3,7 +3,6 @@ import React from "react";
 import Armando from "./assets/Armando.png"
 function App() {
 
-  
   return (
     <div>
       
